@@ -118,6 +118,9 @@ h6 { font-size: 16px;}
 	color:var(--mainText);
 }
 
+#naviation a {
+    color: var(--mainText);
+}
 
 #navigation{
 	margin:0;
